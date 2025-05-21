@@ -1,4 +1,5 @@
-📝 Descrição
+📝 Descrição:
+
 Este é um script Python que valida números de cartão de crédito utilizando o algoritmo de Luhn e identifica a bandeira do cartão com base em prefixos e comprimentos específicos.
 
 O script suporta as seguintes bandeiras:
@@ -72,6 +73,7 @@ Algumas bandeiras têm intervalos de prefixos que podem mudar com o tempo
 O script não faz conexão com nenhum serviço externo para validação adicional
 
 📜 Licença
+
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
 
 🤝 Contribuições
